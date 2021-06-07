@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e9beaaa-b06c-497f-b7cc-2257d7b927a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/ChartBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chart/ChartBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseDate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseDate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesFilter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesFilter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewExpense/NewExpense.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewExpense/NewExpense.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623070638992</updated>
-      <workItem from="1623070640692" duration="549000" />
+      <workItem from="1623070640692" duration="4377000" />
     </task>
     <servers />
   </component>
