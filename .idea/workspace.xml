@@ -1,8 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e9beaaa-b06c-497f-b7cc-2257d7b927a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/ChartBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/ChartBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseDate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseDate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesFilter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewExpense/NewExpense.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewExpense/NewExpense.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tca4H7aHFDWKDDPrTRw3Y6iIYr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\development\React\expenses\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e9beaaa-b06c-497f-b7cc-2257d7b927a4" name="Default Changelist" comment="" />
+      <created>1623070638992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623070638992</updated>
+      <workItem from="1623070640692" duration="549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
